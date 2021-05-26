@@ -1,10 +1,5 @@
 ﻿/*
  * Created by SharpDevelop.
- * User: 0726176
- * Date: 3/14/2018
- * Time: 11:44 AM
- * 
- * To change this template use Tools | Options | Coding | Edit Standard Headers.
  */
 
 using System;
